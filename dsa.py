@@ -1,4 +1,22 @@
+
+'''
+Data structures are code structures for storing and organizing data that make it easier to modify, navigate, and access information.
+Built-in Data Structures
+1.	List
+2.	Tuple
+3.	Dictionary
+User-Defined Data Structures
+Linear & Non-linear 
+•	Linear : Stack & Queue , linked list
+•	Non-linear : Tree, graph
+
+'''
+
 #Stack
+'''
+•	Stack : Stacks are linear Data Structures which are based on the principle of Last-In-First-Out (LIFO) 
+where data which is entered last will be the first to get accessed.
+'''
 
 class Stack:
     def __init__(self,max_size):
